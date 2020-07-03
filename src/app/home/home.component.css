@@ -1,0 +1,10 @@
+.verticalLine{
+    border-right:1px solid #ddd;
+}
+.bg{
+
+    background-image: url('/assets/scratch-logo.png');
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: top left ;
+}
