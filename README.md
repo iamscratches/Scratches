@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ***Following is the given link for the website and few screenshots of the features***
 https://scratches-31f84.web.app/home
- - HomePage ![](output/output2.png)
  - Introduction page ![](output/output1.png)
+ - HomePage ![](output/output2.png)
  - User wall page ![](output/output3.png)
  - User posts in the page ![](output/output4.png)
  - Post description page ![](output/output5.png)
